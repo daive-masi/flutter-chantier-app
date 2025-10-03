@@ -1,0 +1,11 @@
+# Fichiers build
+/build/
+/ios/.generated/
+
+# Environnements
+.env
+.env.production
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
