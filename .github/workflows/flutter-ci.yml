@@ -50,4 +50,8 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: debug-apk
+<<<<<<< HEAD
           path: build/app/outputs/flutter-apk/app-debug.apk
+=======
+          path: build/app/outputs/flutter-apk/app-debug.apk
+>>>>>>> 15e967cf4beb656a494c88c213d5f4af0cd3a551
