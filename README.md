@@ -1,42 +1,16 @@
-# 🏗️ Application Flutter de Suivi de Chantier
+# flutter_chantier_app_new
 
-Application mobile pour la gestion des chantiers et le suivi des employés.
+A new Flutter project.
 
-## 🚀 Features
-- 📱 Scan QR Code pour pointage
-- ✅ Gestion des tâches par chantier
-- 👥 Tableaux de bord employé/admin
-- 🔐 Authentification sécurisée
+## Getting Started
 
-## 🛠️ Installation
-```bash
-git clone https://github.com/votre-equipe/flutter-chantier-app
-cd flutter-chantier-app
-flutter pub get
-flutter run
+This project is a starting point for a Flutter application.
 
-📋 Prérequis
+A few resources to get you started if this is your first Flutter project:
 
-Flutter 3.13+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Firebase Project
-
-Android Studio / VS Code
-
-👥 Équipe
-Daive - Scrum Master/Dev
-
-Benjamin - Product Owner/Dev
-
-Amine - DevOps/Quality
-
-
-🔗 Liens
-
-📋 Jira Project
-
-📚 Confluence
-
-📊 CI/CD Pipeline
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

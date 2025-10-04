@@ -1,6 +1,6 @@
 {
-    "name": "flutter_chantier_app",
-    "short_name": "flutter_chantier_app",
+    "name": "flutter_chantier_app_new",
+    "short_name": "flutter_chantier_app_new",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
